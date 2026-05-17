@@ -14,6 +14,12 @@ The energy levels are calculated with:
 E_n = hbar * omega * (n + 1/2)
 ```
 
+## Install requirements
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
 ## Run the main script
 
 ```powershell
